@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Swal from "sweetalert2";
-import { FaInstagram, FaFacebook , FaPhone , FaLinkedin ,FaEnvelope , FaGithub, FaPhoneAlt} from "react-icons/fa";
+import { FaInstagram, FaFacebook , FaPhone , FaLinkedin ,FaEnvelope , FaGithub} from "react-icons/fa";
 const Contact =()=>{
 
     const onSubmit = async (event:any) => {
