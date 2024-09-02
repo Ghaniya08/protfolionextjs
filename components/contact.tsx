@@ -1,8 +1,9 @@
 "use client";
 import React from "react";
-import Swal from 'sweetalert2';
-import {useState} from 'react';
-import {FaFacebookMessenger , FaInstagram, FaFacebook , FaPhone , FaLinkedin ,FaEnvelope , FaGithub, FaPhoneAlt} from 'react-icons/fa';
+import Swal from "sweetalert2";
+{// import {useState} from "react";
+    }
+import {/*FaFacebookMessenger ,*/  FaInstagram, FaFacebook , FaPhone , FaLinkedin ,FaEnvelope , FaGithub, FaPhoneAlt} from "react-icons/fa";
 const Contact =()=>{
 
     const onSubmit = async (event:any) => {

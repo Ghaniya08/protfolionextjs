@@ -60,7 +60,19 @@ const Aboutsec =()=>{
       )
 }
 
+{/* <div className=" grid max-w-3xl grid-cols-2 ml-44 grid-cols-repeat: auto-fit minmax:(50px , 1fr) grid-auto-rows-50px gap-5 min-w-[100px] h-full mt-14 p-8 right-40 pl-16 pr-9 top-32 left-40  ">
+<div className="bg-dimgray p-10 text-sm font-light rounded-xl transition duration-500  bg-blue-100 hover:bg-blue-300 -translate-y-2.5 hover:-translate-y-5 text-center">
+<h2 className="text-blue-950 text-2xl ">Making Thumbnail</h2>
+      <p> Get eye-catching thumbnails that capture attention! I offer custom thumbnail creation services, designing visually appealing images that showcase your content.
+           With a keen eye for detail and a passion for creativity, I ll help elevate your online presence. Let s work together to create thumbnails that stand out!</p>
+</div>
+  <div className="bg-dimgray p-10 text-sm font-light rounded-xl transition duration-500  bg-blue-100 hover:bg-blue-300 -translate-y-2.5 hover:-translate-y-5 text-center">
+      <h2>Making Thumbnail</h2>
+      <p> Get eye-catching thumbnails that capture attention! I offer custom thumbnail creation services, designing visually appealing images that showcase your content.
+           With a keen eye for detail and a passion for creativity, I ll help elevate your online presence. Let s work together to create thumbnails that stand out!</p>
+  </div>
 
+</div> */}
 
 
 export default Aboutsec;
