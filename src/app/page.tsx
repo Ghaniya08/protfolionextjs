@@ -1,7 +1,4 @@
-import Image from "next/image";
 import React from "react";
-
-// import Navbar from "../../components/navbar";
 import Homepage from "../../components/homepage";
 import Aboutsec from "../../components/about";
 import Servises from "../../components/services";
@@ -12,18 +9,14 @@ export default function Homes() {
   return (
     <div>
       <div >
-      {/* <Navbar/> */}
       <NavigationBar/>
       <Homepage/>
       <Aboutsec/>
       <Servises/>
       <Contact/>
-      
     </div>
     <Footer/>
-    </div>
-    
-    
+    </div>    
   );
 }
-// className="bg-gradient-to-tr from-white via-blue-100 to-white h-screen"
+

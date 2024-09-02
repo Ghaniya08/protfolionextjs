@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-
 import homepic1 from '../public/homepic1.jpg'
 const Homepage = ()=>{
     return(
